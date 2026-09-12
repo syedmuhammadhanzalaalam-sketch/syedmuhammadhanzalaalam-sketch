@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Syed Hanzala Alam 👋
 
-<!--
-**syedmuhammadhanzalaalam-sketch/syedmuhammadhanzalaalam-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder at **[TechRox](https://techrox.netlify.app)** — specializing in AI-driven automation, cloud infrastructure, and modern web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What We Do at TechRox
+* **AI & Workflow Automation:** Custom end-to-end automation pipelines built with n8n, APIs, and LLM integrations.
+* **Cloud & Web Architecture:** Scalable web applications, modern deployments, and performance optimization.
+* **Search & Growth Automation:** Data scraping, outreach workflows, and programmatic search strategies.
+
+---
+
+### 🔗 Connect With Me
+* 🌐 **Website:** [TechRox](https://techrox.netlify.app)
+* 💼 **Email:** syedmuhammadhanzalaalam@gmail.com
